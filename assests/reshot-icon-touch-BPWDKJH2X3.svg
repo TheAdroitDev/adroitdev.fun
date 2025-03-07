@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80.3 80.3" style="enable-background:new 0 0 80.3 80.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EB6A5C;}
+	.st1{fill:#552F2F;}
+	.st2{fill:#55AB99;}
+	.st3{fill:#2F4555;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#ED6B5A;}
+	.st6{fill:#0C2C48;}
+	.st7{fill:#F1CC4B;}
+	.st8{clip-path:url(#SVGID_2_);}
+	.st9{clip-path:url(#SVGID_2_);fill:#F6A09C;}
+	.st10{fill:#50646F;}
+	.st11{fill:#FCA886;}
+	.st12{fill:#EDAB7E;}
+	.st13{fill:#332319;}
+	.st14{fill:#E07E45;}
+	.st15{fill:#FF8F8F;}
+	.st16{fill:#A6D1D9;}
+	.st17{fill:#628185;}
+	.st18{fill:#BABABA;}
+	.st19{fill:#698391;}
+	.st20{opacity:0.41;fill:#FFFFFF;}
+	.st21{fill:#F6A09C;}
+	.st22{fill:#FFF3C9;}
+	.st23{fill:#2384AB;}
+	.st24{fill:#BABFC5;}
+	.st25{clip-path:url(#SVGID_4_);}
+	.st26{fill:#6EB9E0;}
+	.st27{fill:#F8A06D;}
+	.st28{fill:#A3B9C4;}
+	.st29{fill:#3B4A52;}
+	.st30{clip-path:url(#SVGID_6_);}
+	.st31{clip-path:url(#SVGID_8_);fill:#F6A09C;}
+	.st32{opacity:0.21;fill:#FFFFFF;}
+	.st33{clip-path:url(#SVGID_10_);fill:#F6A09C;}
+	.st34{clip-path:url(#SVGID_12_);}
+	.st35{fill:#FFD3B5;}
+	.st36{fill:#BFD9E6;}
+	.st37{fill:#798287;}
+	.st38{fill:#A4A8AD;}
+	.st39{fill:#FFD6BA;}
+	.st40{fill:none;stroke:#0C2C48;stroke-width:1.4;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<circle class="st5" cx="40.2" cy="40.2" r="40.2"/>
+		<g>
+			<defs>
+				<circle id="SVGID_5_" cx="40.8" cy="40.2" r="35.8"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st8">
+				<g>
+					<path class="st6" d="M20.2,94.2c-0.7,0-1.2-0.5-1.2-1.2V14.7c0-0.7,0.5-1.2,1.2-1.2h41.3c0.7,0,1.2,0.5,1.2,1.2V93
+						c0,0.7-0.5,1.2-1.2,1.2H20.2z"/>
+					<rect x="36.9" y="16.6" class="st24" width="7.8" height="1.9"/>
+					<g>
+						<rect x="21.6" y="21.3" class="st4" width="38.4" height="65.6"/>
+						<rect x="21.6" y="62.6" class="st23" width="38.4" height="24.3"/>
+						<rect x="21.6" y="21.3" class="st23" width="38.4" height="10"/>
+						<g>
+							<rect x="23.9" y="24.1" class="st2" width="4" height="2.9"/>
+							<rect x="28.9" y="24.1" class="st5" width="4" height="2.9"/>
+							<rect x="34.1" y="24.1" class="st7" width="4" height="2.9"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_7_" cx="40.2" cy="40.2" r="40.2"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_4_);fill:#F6A09C;" d="M21.3,75.1L2.2,65.2l10.6-20.6l0,0c0.8-1.2,2.4-1.7,3.7-1
+			c1.1,0.6,1.7,1.7,1.5,2.9l1-1.9c0.7-1.4,2.5-2,3.9-1.2c1.1,0.6,1.7,1.7,1.5,2.9l0.5-1c0.7-1.4,2.5-2,3.9-1.2
+			c1.1,0.6,1.7,1.7,1.5,2.9l5.8-11.2c0.7-1.4,2.5-2,3.9-1.2c1.4,0.7,2,2.5,1.2,3.9L29.5,61.2l6.3-2.8c1.4-0.6,3.1,0,3.8,1.5
+			c0.6,1.4,0,3.2-1.5,3.8L24,70L21.3,75.1z"/>
+	</g>
+</g>
+</svg>
